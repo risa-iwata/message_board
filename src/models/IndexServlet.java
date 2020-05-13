@@ -1,4 +1,4 @@
-package controllers;
+package models;
 
 import java.io.IOException;
 import java.util.List;
@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import models.Message;
 import utils.DBUtil;
 
 /**
